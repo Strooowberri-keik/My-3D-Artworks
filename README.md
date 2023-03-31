@@ -3,5 +3,5 @@ Since github is unable to have a preview of .obj file type, you can send me an e
 
 <br>
 
-<i> Disclaimer: I do not make 3D Models for some bullshit NFTs </>
+<i> Disclaimer: I do not make 3D Models for some bullshit NFTs </i>
  
